@@ -47,6 +47,7 @@ $ pip install astroabc==1.5.0
 - mpi4py
 - multiprocessing
 - sklearn
+
 Python distributions like Anaconda have most of what is needed. You can then conda install or pip install all of the required dependencies.
 
 ```
